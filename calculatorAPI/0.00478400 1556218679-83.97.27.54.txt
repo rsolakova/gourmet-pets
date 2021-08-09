@@ -1,0 +1,22 @@
+Email: rsolakova@yahoo.com <br>
+                  Name: <br>
+                  Dog Name: Рио<br>
+                  Years: 4<br>
+                  Breed: 51<br>
+                  Weight: 8<br>
+                  Body: normal<br>
+                  Alergies: 0<br>
+                  Active: high_active<br>
+                  Meat: chicken<br>
+                  Neutered: <br>
+                  Active Index: 1.8<br>
+                  Calories: 599.36038596137<br>
+                  Price: 34<br>
+                  firstname: Ralitsa<br>
+                  surname: Солакова<br>
+                  phone: 0883491230<br>
+                  city: Sofia<br>
+                  neighbourhood: Стрелбище<br>
+                  street: Strelbishte, Petko Todorov blvd.<br>
+                  others: <br>
+                  more info: 

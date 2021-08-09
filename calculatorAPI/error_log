@@ -1,0 +1,9 @@
+[25-Apr-2019 21:51:39 Europe/Sofia] PHP Warning:  file_put_contents(orders/0.63150400 1556218299-83.97.27.54.txt): failed to open stream: No such file or directory in /home/gourxpyk/public_html/calculatorAPI/api.php on line 64
+[25-Apr-2019 21:55:13 Europe/Sofia] PHP Warning:  file_put_contents(orders/test.txt): failed to open stream: No such file or directory in /home/gourxpyk/public_html/calculatorAPI/test.php on line 2
+[25-Apr-2019 21:55:48 Europe/Sofia] PHP Warning:  file_put_contents(orders/test.txt): failed to open stream: No such file or directory in /home/gourxpyk/public_html/calculatorAPI/test.php on line 2
+[31-May-2019 00:08:49 Europe/Sofia] PHP Warning:  stream_select(): unable to select [4]: Interrupted system call (max_fd=5) in /home/gourxpyk/public_html/calculatorAPI/phpmailer/src/SMTP.php on line 1146
+[31-May-2019 00:09:13 Europe/Sofia] PHP Warning:  stream_select(): unable to select [4]: Interrupted system call (max_fd=5) in /home/gourxpyk/public_html/calculatorAPI/phpmailer/src/SMTP.php on line 1146
+[02-Jun-2019 13:42:37 Europe/Sofia] PHP Warning:  file_put_contents(../orders/0.93282200 1559472157-46.238.2.189.txt): failed to open stream: No such file or directory in /home/gourxpyk/public_html/calculatorAPI/api.php on line 66
+[02-Jun-2019 13:44:08 Europe/Sofia] PHP Warning:  file_put_contents(../orders/0.03830300 1559472248-46.238.2.189.txt): failed to open stream: No such file or directory in /home/gourxpyk/public_html/calculatorAPI/api.php on line 66
+[02-Jun-2019 13:44:21 Europe/Sofia] PHP Warning:  file_put_contents(../orders/0.61118400 1559472261-46.238.2.189.txt): failed to open stream: No such file or directory in /home/gourxpyk/public_html/calculatorAPI/api.php on line 66
+[02-Jun-2019 13:46:26 Europe/Sofia] PHP Warning:  file_put_contents(../orders/0.27482200 1559472386-46.238.2.189.txt): failed to open stream: No such file or directory in /home/gourxpyk/public_html/calculatorAPI/api.php on line 66
